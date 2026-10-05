@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "Agentic DevOps",
+  "repo": "ianwieds/awesome-agentic-devops",
+  "tagline": "AI SRE and incident agents, infrastructure agents, CI/CD agents and the tools that let agents run operations.",
+  "scope": "It is about AI agents doing operations work, not a general DevOps product with no agent story.",
+  "accent": "0891B2",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: code sheets ride a belt through build, test and deploy gates, becoming checked containers that enter a server rack, until its alert beacon flashes red and an agent arm swings over to turn it green."
 }
