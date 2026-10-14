@@ -180,6 +180,7 @@ Agentic DevOps puts AI agents to work on operations: they investigate incidents,
 - [Prometheus MCP](https://github.com/prometheus/prometheus-mcp) - Prometheus project MCP server for running PromQL queries.
 - [Rootly MCP Server](https://github.com/rootlyhq/rootly-mcp-server) - Rootly MCP server that pulls incident context into your editor or agent.
 - [Sentry MCP](https://github.com/getsentry/toolkit) - Sentry remote MCP server that gives coding agents error and issue context.
+- [SolidPing](https://github.com/fclairamb/solidping) - Uptime monitoring MCP server for checks, results, incidents and status pages, hosted or self-hosted.
 
 ### CI/CD and source control
 
