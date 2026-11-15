@@ -228,10 +228,10 @@ Agentic DevOps puts AI agents to work on operations: they investigate incidents,
 - [Awesome MCP Servers for DevOps](https://github.com/WagnerAgent/awesome-mcp-servers-devops) - DevOps-focused list of MCP servers for source control, IaC and Kubernetes.
 - [Awesome SRE Agents](https://github.com/last9/awesome-sre-agents) - List of AI agents and tools for DevOps and SRE automation.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
