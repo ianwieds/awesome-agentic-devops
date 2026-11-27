@@ -150,6 +150,7 @@ Agentic DevOps puts AI agents to work on operations: they investigate incidents,
 - [Microsoft MCP](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP servers, the Azure MCP Server among them.
 - [OpenTofu MCP Server](https://github.com/opentofu/opentofu-mcp-server) - MCP server that looks up providers and modules in the OpenTofu Registry.
 - [Pulumi MCP Server](https://www.pulumi.com/docs/ai/mcp-server/) - Pulumi MCP server that lets agents query the registry and run Pulumi operations.
+- [Sandscale MCP](https://sandscale.dev/docs/guides/connect-claude-chatgpt) - Remote MCP server that starts, runs, snapshots and stops Firecracker microVM sandboxes.
 - [Terraform MCP Server](https://github.com/hashicorp/terraform-mcp-server) - HashiCorp MCP server for the Terraform Registry and HCP Terraform workspaces.
 - [Vault MCP Server](https://github.com/hashicorp/vault-mcp-server) - HashiCorp MCP server for managing Vault mounts and secrets.
 
